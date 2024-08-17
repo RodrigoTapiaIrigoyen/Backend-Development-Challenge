@@ -35,7 +35,7 @@ Este repositorio contiene la implementación de un servicio RESTful utilizando N
    2 Instala las dependencias con:  npm install
    3 Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables de entorno:
    . PORT = 5000
-   MONGO_URI=mongodb+srv://rodrigotapia33:Roycid10@backend1.aptf2.mongodb.net/blogDatabase?retryWrites=true&w=majority
+   . ##MONGO_URI=mongodb+srv://rodrigotapia33:Roycid10@backend1.aptf2.mongodb.net/blogDatabase?retryWrites=true&w=majority
    .JWT_SECRET=your_jwt_secret
    ```
 
